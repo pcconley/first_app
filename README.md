@@ -5,3 +5,5 @@ This is the first application for
 by [Michael Hartl](http://michaelhartl.com/).
 
 This is the 2nd instance of this app, the home version.  The other is a work version.
+
+Making a change to practice merging.
